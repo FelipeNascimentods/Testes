@@ -1,1 +1,2 @@
 criado o arquivo teste.txt
+alterações
